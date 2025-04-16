@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository.
-Author - Dheeraj Sharma
+Author - Dheeraj (uka trashadia university)
